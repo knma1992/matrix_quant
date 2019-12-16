@@ -17,5 +17,6 @@ int main() {
 	QSMatrix<char> mat4(num_rows, num_cols, d);
 	mat4.print();
 
+	cout << "so viele Aenderungen";
 	return 0;
 }
